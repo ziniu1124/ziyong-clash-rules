@@ -337,13 +337,9 @@ payload:
   - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,steamusercontent.com
   - DOMAIN-SUFFIX,steampipe.akamaized.net
-  - DOMAIN-SUFFIX,steamchina.com
-  - DOMAIN-SUFFIX,csgo.wmsj.cn
-  - DOMAIN-SUFFIX,dota2.wmsj.cn
+  - DOMAIN-SUFFIX,steampipe-kr.akamaized.net
+  - DOMAIN-SUFFIX,steampipe-partner.akamaized.net
   - DOMAIN,login.steampowered.com
-  - DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
-  - DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
-  - DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
   - DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
   - DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
   - DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
@@ -358,7 +354,4 @@ payload:
   - DOMAIN-SUFFIX,steam.cdn.webra.ru
   - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,steamcontent.tnkjmec.com
-  - DOMAIN-SUFFIX,steampipe.akamaized.net
-  - DOMAIN-SUFFIX,steampipe-kr.akamaized.net
-  - DOMAIN-SUFFIX,steampipe-partner.akamaized.net
   - DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
