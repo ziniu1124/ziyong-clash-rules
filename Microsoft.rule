@@ -863,3 +863,7 @@ payload:
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,skydrive
+  - DOMAIN-SUFFIX,powerapps.com
+  - DOMAIN-SUFFIX,powerplatform.com
+  - DOMAIN-SUFFIX,powerplatformusercontent.com
+  - DOMAIN-SUFFIX,azure-apihub.net
