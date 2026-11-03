@@ -72,3 +72,6 @@ payload:
   - DOMAIN-SUFFIX,sourcegraph.com
   - DOMAIN-SUFFIX,thegithubshop.com
   - DOMAIN-KEYWORD,github
+  - DOMAIN,default.exp-tas.com
+  - DOMAIN-KEYWORD,copilot-reports-
+  - DOMAIN-KEYWORD,usagereports
